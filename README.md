@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Hello-react-frontend</b></h3>
+  <h3><b>Hello-rails-backend</b></h3>
 
 </div>
 
